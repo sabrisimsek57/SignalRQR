@@ -1,0 +1,4 @@
+﻿--category count
+--productcount
+--aktif category
+--pasif category
